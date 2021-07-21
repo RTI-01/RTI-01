@@ -10,7 +10,7 @@ I’m looking to collaborate on building the Renaissance DSAO, a large-scale pro
 ## Renaissance DSAO
 
 Renaissance DSAO intends to develop a purposeful, federated and distributed compute, 
-content development and content delivery network and platform, one specifically made to revolutionize STEM education, credentialling & equivalency recognition, research & innovation funding,and professional standards development.
+content development and content delivery network and platform, one specifically made to revolutionize STEM education, credentialling & equivalency recognition, research & innovation funding, and professional standards development.
 
 The mission of Renaissance DSAO is to innovate technologies and delivery models for amplification of STEM education, workforce development, and research & innovation capacity and impact, towards elevating the basic human condition across the developing and developed world.
 
