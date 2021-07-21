@@ -3,7 +3,7 @@ Hi, I’m @RTI-01.
 
 I’m interested in blockchain, hybrid p2p networking, and grid computing technologies.
 
-I’m currently learning about Algorand's blockchain technology, as well as IPFS and hypercore technologies.
+I’m currently learning about the Hypercore Protocol and Algorand's blockchain technologies.
 
 I’m looking to collaborate on building the Renaissance DSAO, a large-scale project.
 
