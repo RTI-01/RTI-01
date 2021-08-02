@@ -14,9 +14,10 @@ The mission of Renaissance DSAO is to innovate technologies and delivery models 
 ### Objectives:
 Collaboration in course and textbook development.
 Openness in course and textbook licensing.
-Quality and efficiency in course delivery, automated and semi-automated course delivery.
+Quality and efficiency in course delivery, cater to the development of courses that are more automated in their delivery, as well as AI and VR augmentation.
 Scale in course and textbook delivery, across geographies and time.
 Less friction and more transparency in credentialling and credential recognition.
+(Build the Netflix of Education. Make Education accessible and affordable to all.)
 
 
 <!---
