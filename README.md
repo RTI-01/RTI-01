@@ -7,16 +7,15 @@ Innovation in the construction, workforce development and education sectors.
 
 ## Renaissance DSAO
 
-Renaissance DSAO intends to develop a federated and distributed compute, content development and content delivery 
-ecosystem, one specifically made to improve  STEM education, credentialling & equivalency recognition, research & innovation funding, and professional standards development.
+Renaissance DSAO intends to enable developmeny of a federated and distributed compute, content development and content delivery ecosystem, one specifically made to improve  STEM education, credentialling & equivalency recognition, research & innovation funding, and professional standards development.
 
 The mission of Renaissance DSAO is to innovate technologies and delivery models for STEM education, workforce development, and research & innovation capacity and impact, towards elevating the basic human condition across the developing and developed world.
 
 ### Objectives:
 Collaboration in course and textbook development.
 Openness in course and textbook licensing.
-Quality and efficiency in course delivery, cater to the development of courses that are more automated in their delivery, as well as AI and VR augmentation.
-Scale in course and textbook delivery, across geographies and time.
+Quality and efficiency in course delivery.
+Maximizing scalability in course and textbook delivery, across geographies and time.
 Less friction and more transparency in credentialling and credential recognition.
 (Build the Netflix of Education. Make Education accessible and affordable to all.)
 
