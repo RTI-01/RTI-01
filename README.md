@@ -3,7 +3,7 @@ Hi, I’m @RTI-01.
 
 I’m interested in network federation, hybrid p2p networking, distributed database, distributed computing, artificial intelligence and robotics technologies.
  
-Innovation in the construction, workforce development and education sectors. 
+Innovation in the construction, industrial ERP, workforce development and education sectors. 
 
 ## Renaissance DSAO
 
